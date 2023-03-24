@@ -1,6 +1,6 @@
 # x86 Assembly
 
-Hello World in x86 Assembly
+Basic Hello World application for x86 Assembly.
 
 ## Getting Started
 
@@ -12,4 +12,4 @@ $ echo $?
 ```
 
 ## Sources
-- [Linus System Call Table](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
+- [Linux System Call Table](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
